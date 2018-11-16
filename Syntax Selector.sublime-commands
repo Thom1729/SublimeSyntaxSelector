@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Preferences: Syntax Selector",
+        "command": "edit_settings",
+        "args": {
+            "base_file": "${packages}/SyntaxSelector/Syntax Selector.sublime-settings",
+            "default": "{\n\t$0\n}\n"
+        }
+    }
+]
