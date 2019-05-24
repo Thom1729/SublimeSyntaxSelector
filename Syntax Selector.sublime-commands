@@ -6,5 +6,9 @@
             "base_file": "${packages}/SyntaxSelector/Syntax Selector.sublime-settings",
             "default": "{\n\t$0\n}\n"
         }
+    },
+    {
+        "caption": "Syntax Selector: Select Syntax",
+        "command": "select_syntax"
     }
 ]
