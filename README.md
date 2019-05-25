@@ -8,7 +8,7 @@ Via [Package Control](https://packagecontrol.io/docs/usage).
 
 ## Usage
 
-Press <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Y</kbd> to show the syntax selector panel.
+Press <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Y</kbd> to show the syntax selector panel (<kbd>Command</kbd><kbd>Shift</kbd><kbd>Y</kbd> on Mac OS).
 
 ## Configuration
 
@@ -16,7 +16,7 @@ To open the Syntax Selector settings, run `Preferences: Syntax Selector` from th
 
 ### `show_hidden_syntaxes`: boolean (default: `false`)
 
-If `true`, show all loaded syntax definitions. If `false`, do not show hidden syntax definitions.
+If `true`, show all syntax definitions. If `false`, do not show hidden syntax definitions.
 
 ### `preview_on_highlight`: boolean (default: `true`)
 
