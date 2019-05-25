@@ -1,6 +1,6 @@
 [
     {
-        "keys": ["ctrl+shift+y"],
+        "keys": ["primary+shift+y"],
         "command": "select_syntax"
     },
 ]

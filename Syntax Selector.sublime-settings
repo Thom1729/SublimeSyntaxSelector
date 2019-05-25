@@ -1,5 +1,4 @@
 {
-    "show_hidden_syntaxes": true,
-
+    "show_hidden_syntaxes": false,
     "preview_on_highlight": true,
 }
